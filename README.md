@@ -14,3 +14,6 @@ Unlike traditional vaults, we implement the **Sentinel Layer**:
 - **Blockchain:** Solana
 - **Logic:** VOIDIA Sentinel Framework
 - **Interface:** Interactive Dashboard via Loopit
+
+
+https://share.loopit.me/game/776c7d67-6cfa-4a4d-a834-d83879966267
